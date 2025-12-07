@@ -5,7 +5,8 @@ matplotlib
 seaborn 
 plotly 
 scikit-learn
-flask==3.0.0
-flask-cors==4.0.0
-pickle5==0.0.11
-gunicorn==21.2.0
+flask
+flask-cors
+pickle
+
+gunicorn
